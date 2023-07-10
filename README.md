@@ -5,12 +5,13 @@
 <h5 align="center">Publish planned for Q2 of 2024.</h5>
 
 ---
-<h5 align="center">Actual approx. project progress:</h3>
+<h4 align="center">Approx. project progress:</h3>
 <h5 align="center"><img src="https://geps.dev/progress/65" alt="progressbar"/></h3>
-<h5 align="center">[Q3 2023]</h5>
+<h5 align="center">[Updated: July 2023]</h5>
 
 ---
-<h5 align="center">Stack & Progress [Q3 2023]</h5>
+<h4 align="center">Stack & Progress</h5>
+<h5 align="center">[Updated: July 2023]</h5>
 <h5>
   BACKEND
   <br>
@@ -60,5 +61,5 @@
 </h5>
 
 ---
-<h5 align="center">Screenshoots</h5>
+<h4 align="center">Screenshoots</h5>
 <img src="https://github.com/p-wel/allegro-con-brio/assets/75095360/5259c7b4-4ff0-4139-a169-9b9de8aa1fe1"/>
