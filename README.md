@@ -1,6 +1,6 @@
-<h1 align="center">allegro-con-brio</h1>
+<h3 align="center">"allegro-con-brio"</h3>
 
-<h3 align="center">This is preview of <a href="https://github.com/p-wel" target="_blank" rel="noreferrer">my</a> private project that aims to bring Allegro.pl usage to the next level.</h3>
+<h4 align="center">This is preview of <a href="https://github.com/p-wel" target="_blank" rel="noreferrer">my</a> private project that aims to bring Allegro.pl usage to the next level.</h4>
 
 <h5 align="center">Publish planned for Q2 of 2024.</h5>
 
@@ -19,5 +19,5 @@
 </div>
 
 ---
-<h4 align="center">Screenshoots</h5>
+<h4 align="center">Screenshoots</h4>
 <div align="center"> <img src="https://github.com/p-wel/allegro-con-brio/assets/75095360/5259c7b4-4ff0-4139-a169-9b9de8aa1fe1" alt="allegro-con-brio_screen_1" width="920  " height="600"/> </div>
