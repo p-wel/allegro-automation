@@ -5,8 +5,7 @@
 <h5 align="center">Publish planned for Q2 of 2024.</h5>
 
 ---
-<h4 align="center">Progress & Stack</h5>
-<h5 align="center">(Updated: July 2023)</h5>
+<h5 align="center">Last update: July 2023</h5>
 <div align="center">
   
 | PROGRESS | STACK | SCOPE |
@@ -21,4 +20,4 @@
 
 ---
 <h4 align="center">Screenshoots</h5>
-<img src="https://github.com/p-wel/allegro-con-brio/assets/75095360/5259c7b4-4ff0-4139-a169-9b9de8aa1fe1"/>
+<div align="center"> <img src="https://github.com/p-wel/allegro-con-brio/assets/75095360/5259c7b4-4ff0-4139-a169-9b9de8aa1fe1" alt="allegro-con-brio_screen_1" width="920  " height="600"/> </div>
