@@ -1,11 +1,8 @@
-<h3 align="center">"allegro-con-brio"</h3>
+<h3 align="center">"allegro automation"</h3>
 
-<h4 align="center">This is preview of <a href="https://github.com/p-wel" target="_blank" rel="noreferrer">my</a> private project that aims to bring Allegro.pl usage to the next level.</h4>
-
-<h5 align="center">Publish planned for Q2 of 2024.</h5>
+<h4 align="center">This is preview of my private project that aims to bring Allegro.pl usage to the next level.</h4>
 
 ---
-<h5 align="center">Last update: July 2023</h5>
 <div align="center">
 
 | PROGRESS | STACK | SCOPE |
