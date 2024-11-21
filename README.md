@@ -1,6 +1,6 @@
 <h3 align="center">"allegro automation"</h3>
 
-<h4 align="center">This is preview of my private project that aims to bring Allegro.pl usage to the next level.</h4>
+<h4 align="center">Preview of private project that automates Allegro.pl usage</h4>
 
 ---
 <div align="center">
